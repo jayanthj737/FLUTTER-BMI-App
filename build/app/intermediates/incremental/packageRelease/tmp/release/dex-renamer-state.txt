@@ -1,0 +1,4 @@
+#Sun Apr 19 22:00:37 IST 2020
+base.0=/Users/Project/Projects Done/Again Flutter/bmi-calculator-flutter/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
